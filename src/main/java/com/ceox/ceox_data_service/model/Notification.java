@@ -3,7 +3,7 @@ package com.ceox.ceox_data_service.model;
 public class Notification {
     private String title;
     private String body;
-    private String timestamp; // Formateado como String para simplificar
+    private String timestamp; 
 
     public Notification() {}
 
