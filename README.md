@@ -42,10 +42,10 @@ This repo is shared to:
 - **Java 21**
 - **Spring Boot 3**
 - **Maven**
-- **Firestore (Firebase)**
 - **Google Gemini API**
 - **Markmap (Node.js)**
 - **OpenHTMLtoPDF**
+- **Firestore (Firebase)**
 
 > Many of these integrations have been removed in this version, or replaced with placeholders for safety.
 
@@ -61,4 +61,4 @@ All rights to the complete system and brand remain with the original developers.
 
 Feel free to explore the structure, follow the comments, and reach out if you're curious about the full CEOX system.
 
-<p align="center"><i>— Built with purpose and privacy by the CEOX team 🛡️</i></p>
+<p align="center"><i>— Built with purpose and privacy by the Maen Studios team 🛡️</i></p>
