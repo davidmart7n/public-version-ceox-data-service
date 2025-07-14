@@ -1,0 +1,16 @@
+# Java/Maven
+target/
+*.class
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA (solo si usaste alguna vez)
+*.iml
+.idea/
+
+# Service Account (muy importante)
+src/main/resources/firebase/agencyx-fb-service-account.json
